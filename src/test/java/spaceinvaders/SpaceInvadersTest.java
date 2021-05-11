@@ -75,5 +75,5 @@ public class SpaceInvadersTest {
 			} catch (final HorsEspaceJeuException e) {
 			}
 				
-		}
+		} 
 }
