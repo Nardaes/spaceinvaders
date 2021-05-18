@@ -26,5 +26,7 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 
 Diagrame de classe :
 
+![diag classe S1-2](image/DiagClass S1-2.png)
 
 Nuage de mots :
+![nuage S1-2](image/NuageS1-2.png)
