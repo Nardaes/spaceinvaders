@@ -1,7 +1,7 @@
-#spaceinvaders
+# spaceinvaders
 projet de M2104
 
-##Semaine N°2 du 10/05/2021 au 16/05/2021
+## Semaine N°2 du 10/05/2021 au 16/05/2021
 
 
 Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de Jeu
