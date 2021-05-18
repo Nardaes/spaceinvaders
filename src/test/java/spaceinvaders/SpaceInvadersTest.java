@@ -159,4 +159,22 @@ public class SpaceInvadersTest {
 			"...............\n" + 
 			"V..............\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
 		}
+	 
+	 //fonction 2
+	 
+	 @Test
+		public void test_unNouveauVaisseauAvecDimensionEstCorrectementPositionneDansEspaceJeu() {
+			spaceinvaders.positionnerUnNouveauVaisseau(3,2,7,9);
+			assertEquals("" + 
+			"...............\n" + 
+			"...............\n" +
+			"...............\n" + 
+			"...............\n" + 
+			"...............\n" + 
+			"...............\n" + 
+			"...............\n" + 
+			"...............\n" + 
+			".......VVV.....\n" + 
+			".......VVV.....\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
+		}
 }
