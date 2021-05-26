@@ -48,5 +48,5 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 
 ## Nuage de mots :
 
-![nuage S3](image/NuageS3.png)
+![nuage S3](image/NuqgeS3.png)
 
