@@ -40,7 +40,7 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 
 #### Storie 1 : Positionner un nouveau vaisseau avec une dimension donnée
 
-
+Le vaisseau doit avoir une longueur et une largueur.
 
 ## Diagrame de classe :
 
