@@ -1,10 +1,10 @@
 # spaceinvaders
 projet de M2104
 
-## Semaine N°2 du 10/05/2021 au 16/05/2021
+## Semaine N°1 et N°2 du 10/05/2021 au 16/05/2021
 
 
-Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de Jeu
+###Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de Jeu
 
 #### Storie 1 : cree un espace de jeu
       - pouvoir voir l'espace de jeu
@@ -31,3 +31,11 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 ## Nuage de mots :
 
 ![nuage S1-2](image/NuageS1-2.png)
+
+
+## Semaine N°3
+
+
+###Fonctionnalité n°2 : Dimensionner le vaisseau
+
+#### Storie 1 : Positionner un nouveau vaisseau avec une dimension donnée
