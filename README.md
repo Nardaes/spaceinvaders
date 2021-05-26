@@ -39,3 +39,14 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 ###Fonctionnalité n°2 : Dimensionner le vaisseau
 
 #### Storie 1 : Positionner un nouveau vaisseau avec une dimension donnée
+
+
+
+## Diagrame de classe :
+
+![diag classe S3](image/DiagCassS3.png)
+
+## Nuage de mots :
+
+![nuage S3](image/NuageS3.png)
+
