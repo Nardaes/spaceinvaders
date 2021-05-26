@@ -33,10 +33,10 @@ Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau d
 ![nuage S1-2](image/NuageS1-2.png)
 
 
-## Semaine N°3
+## Semaine N°3 du 17/05/2021 au 23/05/2021
 
 
-###Fonctionnalité n°2 : Dimensionner le vaisseau
+### Fonctionnalité n°2 : Dimensionner le vaisseau
 
 #### Storie 1 : Positionner un nouveau vaisseau avec une dimension donnée
 
